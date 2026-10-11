@@ -1,1 +1,3 @@
-bin/App$1.class
+
+*.class
+bin/
